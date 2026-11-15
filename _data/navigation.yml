@@ -12,19 +12,19 @@ main:
     url: /aboutme/
   
   - title: "Professional Experience"
-    url: /experience/
+    url: /professionalexperience/
     
   - title: "Presentations and Publications"
-    url: /presentations/
+    url: /presentationsandpublications/
 
   - title: "Skills and Technology"
-    url: /skills/    
+    url: /skillsandtechnology/    
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Sample Projects"
-    url: /sample projects/
+    url: /sampleprojects/
         
   - title: "Resume"
     url: /resume/
