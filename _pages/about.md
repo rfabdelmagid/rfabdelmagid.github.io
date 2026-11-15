@@ -8,6 +8,8 @@ redirect_from:
 
 ---
 
+Designing meaningful learning experiences that inspire curiosity, creativity, and growth.
+<b>
 
 <p align="center">
   <img src="/images/500x300.png" alt="about" width="700">
