@@ -11,17 +11,11 @@ main:
   - title: "About Me"
     url: /aboutme/
   
-  - title: "Professional Experience"
-    url: /professionalexperience/
+    title: "Teaching"
+    url: /teaching/
     
   - title: "Presentations and Publications"
     url: /presentationsandpublications/
-
-  - title: "Skills and Technology"
-    url: /skillsandtechnology/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
   - title: "Sample Projects"
     url: /sampleprojects/
