@@ -10,5 +10,5 @@ redirect_from:
 Hello
 Welcome to my portfolio. My name is Randa Abdelmagid. This is my portfolio. 
 
-A data-driven personal website
+
 ======
