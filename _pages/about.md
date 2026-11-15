@@ -8,8 +8,6 @@ redirect_from:
 
 ---
 
-Educator | Instructional Designer | Academic Administrator
-
 <p align="center">
   <img src="/images/500x300.png" alt="about" width="700">
 </p>
