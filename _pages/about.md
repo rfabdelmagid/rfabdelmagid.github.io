@@ -11,6 +11,7 @@ redirect_from:
 Hello
 Welcome to my portfolio. My name is Randa Abdelmagid. This is my portfolio. Continue
 
-<image> "![alt text](../images/500x300.png) " 
-
+<p align="center">
+  <img src="/images/500x300.png" alt="about" width="500">
+</p>
 ======
