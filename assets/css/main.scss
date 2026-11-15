@@ -84,3 +84,33 @@
     "layout/archive",
     "layout/sidebar"
 ;
+
+* 1. Full River Wave Background (0% Veil so sandy & teal tones show fully) */
+body {
+  background-image: url('/images/riverimage.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+/* Light, airy translucent reading panel so text stays crisp over the waves */
+.masthead, #main {
+  background-color: rgba(255, 255, 255, 0.72);
+  backdrop-filter: blur(4px);
+  border-radius: 10px;
+}
+
+/* 2. Your 3-Color Mood Board Accents (Marigold Gold, River Teal, Warm Sand) */
+h1, .page__title {
+  color: #efa659;
+}
+
+h2, h3 {
+  color: #2B6D86;
+  border-bottom: 2px solid #e4cbad;
+  padding-bottom: 0.25em;
+}
+
+ul li::marker {
+  color: #efa659;
+}
