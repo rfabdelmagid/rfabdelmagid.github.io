@@ -1,6 +1,52 @@
 ---
 ---
 
+/* lato-regular - latin */
+@font-face {
+  font-display: swap;
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/assets/webfonts/lato-v25-latin-regular.woff2') format('woff2');
+}
+
+/* lato-italic - latin */
+@font-face {
+  font-display: swap;
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: url('/assets/webfonts/lato-v25-latin-italic.woff2') format('woff2');
+}
+
+/* playfair-display-regular - latin */
+@font-face {
+  font-display: swap;
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/assets/webfonts/playfair-display-v40-latin-regular.woff2') format('woff2');
+}
+
+/* playfair-display-500italic - latin */
+@font-face {
+  font-display: swap;
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-weight: 500;
+  src: url('/assets/webfonts/playfair-display-v40-latin-500italic.woff2') format('woff2');
+}
+
+/* playfair-display-700 - latin */
+@font-face {
+  font-display: swap;
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/assets/webfonts/playfair-display-v40-latin-700.woff2') format('woff2');
+}
+
+
 /*
  * This file controls what is imported from /_sass
  *
