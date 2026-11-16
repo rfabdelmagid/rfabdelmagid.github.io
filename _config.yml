@@ -293,9 +293,9 @@ defaults:
 # _talks
   - scope:
       path: ""
-      type: whoiam
+      type: aboutme
     values:
-      layout: whoiam
+      layout: aboutme
       author_profile: true
       share: true
 
