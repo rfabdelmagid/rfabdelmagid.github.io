@@ -11,7 +11,6 @@ redirect_from:
 
 
 ======
-# Resume
 
 Welcome! Below is a downloadable copy of my resume. 
 
@@ -23,9 +22,9 @@ I specialize in blending instructional technology with data-driven teaching, tra
 
 ### At a Glance
 
-**Current Location:** Morrisville, North Carolina
-**Languages:** English (Proficient), Arabic (Native)
-**Education:** Ph.D., Curriculum & Instruction (Virginia Tech)
+* **Current Location:** Morrisville, North Carolina
+* **Languages:** English (Proficient), Arabic (Native)
+* **Education:** Ph.D., Curriculum & Instruction (Virginia Tech)
 
 ---
 
