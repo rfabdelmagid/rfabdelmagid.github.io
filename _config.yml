@@ -293,9 +293,9 @@ defaults:
 # _talks
   - scope:
       path: ""
-      type: professionalexperience
+      type: whoiam
     values:
-      layout: professionalexperience
+      layout: whoiam
       author_profile: true
       share: true
 
