@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 
 ---
-
+<b>
+<b>
+<b>
 Designing meaningful learning experiences that inspire curiosity, creativity, and growth.
 <b>
 
