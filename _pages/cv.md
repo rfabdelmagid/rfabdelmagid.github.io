@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-
-======
+---
 
 Welcome! Below is a downloadable copy of my resume. 
 
