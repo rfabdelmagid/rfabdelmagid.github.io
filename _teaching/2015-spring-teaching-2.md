@@ -1,5 +1,5 @@
 ---
-title: "Professional Experience"
+title: "Professional Experience 1"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
