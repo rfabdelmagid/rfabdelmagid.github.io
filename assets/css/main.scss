@@ -116,3 +116,11 @@ a {
 a:hover {
   color: #efa659 !important;
 }
+
+/* Hide the main page title header inside pages (keeps top navigation intact) */
+.page__title {
+  display: none !important;
+}
+.page__content {
+  margin-top: 0 !important;
+}
