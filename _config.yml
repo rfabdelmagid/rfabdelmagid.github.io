@@ -293,9 +293,9 @@ defaults:
 # _talks
   - scope:
       path: ""
-      type: aboutme
+      type: about-me
     values:
-      layout: aboutme
+      layout: about-me
       author_profile: true
       share: true
 
