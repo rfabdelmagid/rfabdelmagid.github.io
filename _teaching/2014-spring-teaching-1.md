@@ -1,5 +1,5 @@
 ---
-title: "My Professional Journey"
+title: "Professional Experience 2"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
