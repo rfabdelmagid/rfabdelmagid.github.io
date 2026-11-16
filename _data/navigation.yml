@@ -11,13 +11,13 @@ main:
   - title: "About Me"
     url: /about-me/
 
-  - title: "Teaching"
+  - title: "My Journey" # Renamed from "Teaching"
     url: /teaching/
     
-  - title: "Presentations and Publications"
+  - title: "Writing and Presentations"
     url: /presentationsandpublications/
     
-  - title: "Portfolio"
+  - title: "Selected Work"  # Renamed from "Portfolio"
     url: /portfolio/
         
   - title: "Resume"
