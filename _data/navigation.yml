@@ -11,7 +11,7 @@ main:
   - title: "About Me"
     url: /about-me/
 
-  - title: "My Professional Journey" # Renamed from "Teaching"
+  - title: "Professional Experience" # Renamed from "Teaching"
     url: /teaching/
     
   - title: "Writings and Presentations"
