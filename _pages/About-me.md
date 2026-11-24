@@ -9,5 +9,8 @@ author_profile: true
 * MSc. International Business, University of Groningen
 * BSc. Organizational Management, Ahfad University
 
-## Research Interests
+## License/Certification
 Share a short paragraph about your work here.
+* Licensure in Instructional Technology, University of North Carolina, Greensboro
+* Substitute Effective Teacher Training – Wake Tech Workforce Development, USA
+* CELTA Certification – Teaching House, USA
