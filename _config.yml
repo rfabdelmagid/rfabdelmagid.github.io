@@ -258,7 +258,7 @@ defaults:
   # _professionalexperience
   - scope:
       path: ""
-      type: professional experience
+      type: professionalexperience
     values:
       layout: single
       author_profile: true
