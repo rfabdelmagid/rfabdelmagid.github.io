@@ -10,7 +10,6 @@ author_profile: true
 * BSc. Organizational Management, Ahfad University
 
 ## License/Certification
-Share a short paragraph about your work here.
 * Licensure in Instructional Technology, University of North Carolina, Greensboro
-* Substitute Effective Teacher Training – Wake Tech Workforce Development, USA
-* CELTA Certification – Teaching House, USA
+* Substitute Effective Teacher Training – Wake Tech Workforce Development
+* CELTA Certification – Teaching House
