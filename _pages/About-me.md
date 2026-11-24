@@ -5,8 +5,9 @@ author_profile: true
 ---
 
 ## Education
-* **Ph.D. in Your Field**, University Name
-* **B.S. in Your Field**, University Name
+* Ph.D. Instructional Design and Technology, Virginia Tech
+* MSc. International Business, University of Groningen
+* BSc. Organizational Management, Ahfad University
 
 ## Research Interests
 Share a short paragraph about your work here.
