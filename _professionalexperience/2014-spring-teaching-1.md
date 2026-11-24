@@ -1,11 +1,11 @@
 ---
 title: "Instructional Design & Blended Learning"
-collection: teaching
+collection: professionalexperience
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /professionalexperience/2015-spring-teaching-1
 ---
 
-Heading 1
+Instructional Design & Blended Learning
 ======
 <p>
  * Designed and implemented blended learning models across core curriculum areas in K-12 and international settings
