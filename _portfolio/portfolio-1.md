@@ -1,6 +1,6 @@
 ---
 title: "The World of Clothespins"
-excerpt: "A Course on Informational Essay Writing through Makerspace Integration<br/><img src='/images/clothespin-image.png' alt='The World of Clothespins'>"
+excerpt: "A Course on Informational Essay Writing through Makerspace Integration<br/><img src='/images/clothespin image.png' alt='The World of Clothespins'>"
 collection: portfolio
 ---
 
@@ -12,7 +12,7 @@ collection: portfolio
 
 ### Project Overview
 
-*The World of Clothespins* is a hands-on unit that connects makerspace engineering with informational essay writing for elementary students. Students explore the history, how clothespins work, and how people use them every day. They learn by touching and building first, then use what they learned to write a clear, organized essay.
+*The World of Clothespins* is a hands-on course that connects makerspace tinkering with informational essay writing for elementary students. Students explore the history, how clothespins work, and how people use them every day. They learn by touching and building first, then use what they learned to write a clear, organized essay.
 
 ### Instructional Design & Learning Objectives
 
