@@ -35,7 +35,7 @@ With a Ph.D. in Instructional Design and Technology from Virginia Tech and over 
 
 
 <p align="center">
-  <img src="/images/500x300.png" alt="about" width="400">
+  <img src="/images/frontpage image.png" alt="about" width="400">
 </p>
 <b>
 Designing meaningful learning experiences that inspire curiosity, creativity, and growth.
