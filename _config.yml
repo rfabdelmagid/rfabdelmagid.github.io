@@ -82,7 +82,7 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
-# Publication Category - The following the list of publication categories and their headings
+# Presentations and Publications Category - The following the list of publication categories and their headings
 publication_category:
   books:
     title: 'Books'
@@ -143,7 +143,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : og-image.png   # Social media default site image (lives in /images/)
+og_image                 :  # Social media default site image (lives in /images/)
 og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -264,7 +264,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _presentationsandpublications
   - scope:
       path: ""
       type: presentationsandpublications
