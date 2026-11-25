@@ -5,14 +5,15 @@ type: "Workshop"
 permalink: /professionalexperience/2015-spring-professionalexperience-1
 ---
 
-Instructional Design & Blended Learning
+
 ======
-<p>
- * Designed and implemented blended learning models across core curriculum areas in K-12 and international settings
+<p>Design & Blended Learning<p>
 
-* Coached educators on integrating digital learning tools and data-driven instruction.
+<p> Designed and implemented blended learning models across core curriculum areas in K-12 and international settings. <p>
 
-* Designed faculty development workshops on teaching innovation and educational technology (USAID project, Virginia Tech)."
+<p> Coached educators on integrating digital learning tools and data-driven instruction. <p>
+
+<p> Designed faculty development workshops on teaching innovation and educational technology (USAID project, Virginia Tech). <p>
 
 Heading 2
 ======
