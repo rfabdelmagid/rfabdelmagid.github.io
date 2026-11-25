@@ -1,6 +1,7 @@
 ---
 title: "The World of Clothespins"
-excerpt: "A course on Informational Essay Writing through Makerspace Integration<br/><img src='/>images/clothespin image.png"
+excerpt: A Course on Informational Essay Writing through Makerspace Integration
+<br/><img src='/>images/clothespin image.png>
 collection: portfolio
 ---
 
