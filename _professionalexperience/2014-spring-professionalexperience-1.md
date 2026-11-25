@@ -2,7 +2,7 @@
 title: "Instructional Design & Blended Learning"
 collection: professionalexperience
 type: "Workshop"
-permalink: /professionalexperience/2015-spring-teaching-1
+permalink: /professionalexperience/2015-spring-professionalexperience-1
 ---
 
 Instructional Design & Blended Learning
