@@ -2,6 +2,7 @@
 title: "Professional Development Sample"
 excerpt: "<strong style='font-size: 1.15em;'>Google Classroom Professional Development Sample</strong><br/><br/><img src='/images/trainer.png' alt='Professional Development Samples' style='max-width: 450px; height: auto;'>"
 collection: portfolio
+share: false
 ---
 
 {% include base_path %}
