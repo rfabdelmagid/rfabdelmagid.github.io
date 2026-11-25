@@ -6,7 +6,7 @@ layout: default
 
 {% if page.collection == 'portfolio' %}
   <nav class="pagination">
-    <a href="{{ base_path }}/portfolio/" class="pagination--pager">Back to All</a>
+    <a href="{{ base_path }}/portfolio/" class="pagination--pager">Back to Selected Work/a>
   </nav>
 {% else %}
   {% include post_pagination.html %}
@@ -65,9 +65,21 @@ layout: default
 
       {% if page.share %}{% include social-share.html %}{% endif %}
 
-    {% unless page.collection == 'portfolio' %}
-     {% include post_pagination.html %}
-    {% endunless %}
+    {% if page.collection == 'portfolio' %}
+  <nav class="pagination">
+    <a href="{{ base_path }}/portfolio/" class="pagination--pager">← Back to Selected work</a>
+  </nav>
+{% else %}
+  {% include post_pagination.html %}
+{% endif %}
+
+
+
+
+
+
+
+
 
     </div>
 
