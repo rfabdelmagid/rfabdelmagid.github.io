@@ -74,7 +74,7 @@ def main():
     d.line([70, 362, W - 70, 362], fill=(230, 230, 230), width=2)
 
     # content pills
-    pills = ["Publications", "Talks", "Teaching", "Portfolio", "CV"]
+    pills = ["Publications", "Talks", "Professional Experience", "Portfolio", "CV"]
     x = 70
     y = 422
     for p_ in pills:
