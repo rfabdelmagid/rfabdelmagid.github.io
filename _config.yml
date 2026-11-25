@@ -267,7 +267,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: presentationsandpublications
     values:
       layout: single
       author_profile: true
