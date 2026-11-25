@@ -1,17 +1,18 @@
----
+--
 layout: default
 ---
 
 {% include base_path %}
 
-{% if page.collection == 'portfolio' %}
-  <nav class="pagination">
-    <a href="{{ base_path }}/portfolio/" class="pagination--pager">Back to All</a>
-  </nav>
-{% else %}
-  {% include post_pagination.html %}
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
 {% endif %}
 
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
 
 <div id="main" role="main">
   {% include sidebar.html %}
