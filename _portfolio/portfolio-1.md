@@ -3,6 +3,8 @@ title: "The World of Clothespins"
 excerpt: "<strong style='font-size: 1.15em;'>A Course on Informational Essay Writing through Makerspace Integration</strong><br/><br/><img src='/images/clothespin image.png' alt='The World of Clothespins' style='max-width: 350px; height: auto;'>"
 
 collection: portfolio
+share: false
+pagination: false
 ---
 
 {% include base_path %}
