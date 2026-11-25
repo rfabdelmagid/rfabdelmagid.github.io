@@ -1,7 +1,6 @@
 ---
 title: "Professional Development Samples"
-excerpt: "<strong style='font-size: 1.15em;'>Samples of my Professional Development Sessions</strong><br/><br/><img src='/images/clothespin image.png' alt='Professional Development Samples' style='max-width: 350px; height: auto;'>"
-
+excerpt: "<strong style='font-size: 1.15em;'>Samples of My Professional Development Sessions</strong><br/><br/><img src='/images/trainer.png' alt='Professional Development Samples' style='max-width: 450px; height: auto;'>"
 collection: portfolio
 ---
 
@@ -9,16 +8,22 @@ collection: portfolio
 
 ### Planning for PD
 
-A well laid written plan will help you decide on how the session will take place
+A well-laid written plan outlines the learning objectives, pacing, and activities for an effective training session.
 
-<p><a href="https://share.articulate.com/1QvHu_2cVPBxKJhwrRXEL" target="_blank">View the Full Course</a></p>
+<p><a href="{{ base_path }}/files/PD Watermark.pdf" target="_blank">View Sample PD Session Plan (PDF)</a></p>
 
-### Announcement about the PD
+### Announcement About the PD
 
-To attract attendees, develop a visual promo for your training 
+To attract attendees, develop a clear visual promo that highlights key takeaways and session details.
+
+<video controls style="max-width: 600px; width: 100%; height: auto;">
+  <source src="{{ base_path }}/files/Google Classroom Professional Development.mp4.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ### PD Material
 
-* **Makerspace Exploration:** Students examine real clothespins, test different materials and design creative prototypes.
-* **Research & Note-Taking:** Learners gather facts from curated informational texts and hands-on observations, organizing details into categories (history, design, and function).
-* **Structured Informational Writing:** Using graphic organizers and digital writing tools, students draft, revise, and publish a multi-paragraph informational essay complete with domain-specific vocabulary and text features.
+When designing training documents, include labeled visuals and step-by-step instructions so educators can follow along easily and apply the tools independently.
+
+<p><a href="{{ base_path }}/files/Google Classroom Training.pdf" target="_blank">View Sample PD Handout / Guide (PDF)</a></p>
