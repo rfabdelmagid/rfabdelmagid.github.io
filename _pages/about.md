@@ -15,11 +15,17 @@ Great educational technology isn't about the tools—it's about empowering teach
 
 With a Ph.D. in Instructional Design and Technology from Virginia Tech and over a decade of experience across U.S. and international schools, my work sits at the intersection of **classroom reality, instructional design, and academic leadership**. Having served as an elementary teacher, reading interventionist, testing coordinator, and Vice Principal, I approach educational innovation from the ground up—designing systems and digital learning experiences that actually work for busy educators and diverse learners.
 
+
 ### What I’m Focused on Now
 
-* **Closing Literacy Gaps:** Providing targeted, Science of Reading–aligned small-group and one-on-one interventions to build confident, fluent elementary readers.
-* **Advancing Digital Pedagogy:** Completing my **Instructional Technology Licensure** at UNC Greensboro while exploring how emerging tools can streamline teacher workflows and personalize instruction.
-* **Sharing Work & Ideas:** Curating practical workshops, curriculum designs, and research from my work in the U.S. and the Middle East.
+* **Instructional Technology:** Completing my licensure at UNC Greensboro and exploring digital tools that streamline teaching and learning.
+
+* **Literacy Intervention:** Providing small-group and one-on-one reading instruction for elementary readers.
+
+* **Portfolio Curation:** Sharing workshops, curriculum designs, and research from my work across U.S. and international schools.
+
+* **Conference Engagement & Professional Learning:** Attending and contributing to educational technology and literacy conferences to stay current on emerging research, AI in education, and classroom innovation.
+
 
 ### Where to Start
 
