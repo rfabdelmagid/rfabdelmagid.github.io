@@ -42,12 +42,12 @@ def create_md(lines: list, layout: list):
         
         # Parse the YAML variables
         md = f"---\ntitle: \"{item[layout.index('title')]}\"\n"
-        md += "collection: publications"
+        md += "collection: presentionsandpublications"
         if len(layout) == len(HEADER_UPDATED):
             md += f"\ncategory: {item[layout.index('category')]}"
         else:
             md += "\ncategory: manuscripts"
-        md += f"\npermalink: /publication/{html_filename}"
+        md += f"\npermalink: /presentationsandpublications/{html_filename}"
         if len(str(item[layout.index('excerpt')])) > 5:
             md += f"\nexcerpt: '{html_escape(item[layout.index('excerpt')])}'"
         md += f"\ndate: {item[layout.index('pub_date')]}"
@@ -65,7 +65,7 @@ def create_md(lines: list, layout: list):
         md += f"\nRecommended citation: {item[layout.index('citation')]}"
         
         # Write the file
-        md_filename = os.path.join("../_publications/", os.path.basename(md_filename))
+        md_filename = os.path.join("../_presentationsandpublications/", os.path.basename(md_filename))
         with open(md_filename, 'w') as f:
             f.write(md)
 
