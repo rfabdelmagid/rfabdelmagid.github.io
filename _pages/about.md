@@ -9,15 +9,7 @@ redirect_from:
 ---
 <b>
 <b>
-<b>
 
-<b>
-
----
-permalink: /
-title: "About Me"
-author_profile: true
----
 
 Great educational technology isn't about the tools—it's about empowering teachers and making learning more human, accessible, and effective.
 
