@@ -1,6 +1,6 @@
 ---
-title: "Professional Development Samples"
-excerpt: "<strong style='font-size: 1.15em;'>Samples of My Professional Development Sessions</strong><br/><br/><img src='/images/trainer.png' alt='Professional Development Samples' style='max-width: 450px; height: auto;'>"
+title: "Professional Development Sample"
+excerpt: "<strong style='font-size: 1.15em;'>Google Classroom Professional Development Sample</strong><br/><br/><img src='/images/trainer.png' alt='Professional Development Samples' style='max-width: 450px; height: auto;'>"
 collection: portfolio
 ---
 
