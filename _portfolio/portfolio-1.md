@@ -9,7 +9,9 @@ collection: portfolio
 
 ### Project Link
 
-<p><a href="https://share.articulate.com/1QvHu_2cVPBxKJhwrRXEL" target="_blank">View the Full Course / Project Materials</a></p>
+Click on the below link to view the full course
+
+<p><a href="https://share.articulate.com/1QvHu_2cVPBxKJhwrRXEL" target="_blank">View the Full Course</a></p>
 
 ### Project Overview
 
