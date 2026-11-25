@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 ---
 
-Welcome! Below is a downloadable copy of my resume. 
+### Background Information. 
 
 My background spans over 10 years of experience in K-12 education, instructional design, and academic administration. I hold a Ph.D. in Curriculum & Instruction / Instructional Design & Technology from Virginia Tech, and I have worked in diverse educational settings across the U.S. and internationally. 
 
@@ -20,7 +20,7 @@ I specialize in blending instructional technology with data-driven teaching, tra
 
 ### At a Glance
 
-* **Current Location:** Morrisville, North Carolina
+* **Current Profession:** Educational Consultant/Instructional Technologist
 * **Languages:** English (Proficient), Arabic (Native)
 * **Education:** Ph.D., Curriculum & Instruction (Virginia Tech)
 
