@@ -1,6 +1,6 @@
 ---
-title: "Work Sample 1"
-excerpt: "Short description of work sample 1<br/><img src='/images/500x300.png'>"
+title: "The World of Clothespins"
+excerpt: "A course on Informational Essay Writing through Makerspace Integration<br/><img src='/>images/clothespin image.png"
 collection: portfolio
 ---
 
