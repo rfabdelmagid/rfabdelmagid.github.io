@@ -24,7 +24,7 @@ With a Ph.D. in Instructional Design and Technology from Virginia Tech and over 
 ### Where to Start
 
 * Explore my **[Professional Experience](/professionalexperience/)** to see how my background spans instructional design, K–12 administration, and assessment systems.
-* Browse my **Projects & Artifacts** to view sample faculty workshops, curriculum modules, and research publications.
+* Browse my **Selected Work** to view sample teachers' workshops, course module, and research publications.
 * Reach out via the contact links in my profile sidebar if you’d like to collaborate on instructional design, educator coaching, or academic leadership initiatives.
 
 
