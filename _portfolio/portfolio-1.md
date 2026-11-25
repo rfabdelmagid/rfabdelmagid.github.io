@@ -7,7 +7,7 @@ collection: portfolio
 
 {% include base_path %}
 
-![The World of Clothespins]({{ base_path }}/images/clothespin-image.png)
+### Project Link
 
 <p><a href="https://share.articulate.com/1QvHu_2cVPBxKJhwrRXEL" target="_blank">View the Full Course / Project Materials</a></p>
 
