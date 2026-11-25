@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 ---
 
-### Background Information. 
+### Background Information 
 
 My background spans over 10 years of experience in K-12 education, instructional design, and academic administration. I hold a Ph.D. in Curriculum & Instruction / Instructional Design & Technology from Virginia Tech, and I have worked in diverse educational settings across the U.S. and internationally. 
 
