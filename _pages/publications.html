@@ -1,36 +1,40 @@
 ---
-layout: archive
-title: "Presentation and Publications"
-permalink: /presentationsandpublications/
+layout: single
+title: "Publications & Presentations"
+permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+### Doctoral Dissertation
 
-{% include base_path %}
+* **Abdelmagid, R.** *Dissertation Title Here.* Doctoral dissertation, Virginia Tech. *(Link to VTechWorks PDF)*
+  * *Summary:* Add a 2–3 sentence overview of your research focus, methodology, and key findings for educators and instructional designers.
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+---
+
+### Publications
+
+* **Alkhezzi, F., & Abdelmagid, R. (2011).** Technology Integration: The Use of Computers by Kuwaiti Elementary School Teachers. *Journal of the International Society for Teacher Education (JISTE)*, 15(2), 23–30.
+* **Abdelmagid, R. (2015).** Teaching Vocabulary Using a Blended-Learning Approach. *VATESOL Newsletter*, 18(3), 8–9.
+
+---
+
+### Selected Conference Presentations & Workshops
+
+* **Abdelmagid, R. (2018–2019).** *Launching of the E-Village Event with TESOL Kuwait.* Presented at the TESOL Kuwait Mini Conference (Kuwait) and the TESOL Arabia Conference (Dubai, UAE).
+* **Abdelmagid, R. (2017).** *Teaching Vocabulary Using a Blended-Learning Approach.* Paper presentation at the QUFP International Conference on Language Teaching.
+* **Abdelmagid, R. (2017).** *Using Online Tools in an ESL Classroom.* Paper presentation at the TESOL Arabia Conference (TACON), Dubai, UAE.
+* **Abdelmagid, R. (2015).** *Teaching Vocabulary Through a Blended-Learning Approach.* Presented at the TESOL International Convention & Language Expo (Toronto, Canada) and the TESOL Arabia Conference (Dubai, UAE).
+* **Abdelmagid, R. (2015).** *The Use of Technology Tools for ADHD Students in K–12 Settings.* Professional training workshop funded by the Kuwait Foundation for the Advancement of Science (KFAS), Kuwait.
+
+---
+
+### Conference & Association Leadership
+
+* **E-learning Chair**, TESOL Kuwait (2017–2019)
+* **Program Chair**, Electronic Village (E-Village) Technology Event, TESOL Kuwait
+* **Conference Presenter**, TESOL International Convention, TESOL Kuwait, TESOL Arabia, and the Association for Educational Communications & Technology (AECT)
+
 
 
 
