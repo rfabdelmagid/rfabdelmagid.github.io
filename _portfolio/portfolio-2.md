@@ -17,7 +17,7 @@ A well-laid written plan outlines the learning objectives, pacing, and activitie
 To attract attendees, develop a clear visual promo that highlights key takeaways and session details.
 
 <video controls style="max-width: 600px; width: 100%; height: auto;">
-  <source src="{{ base_path }}/files/Google Classroom Professional Development.mp4.mp4" type="video/mp4">
+  <source src="{{ base_path }}/files/Google Classroom Professional Development.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
