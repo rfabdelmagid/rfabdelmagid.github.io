@@ -2,7 +2,7 @@
 title: "Professional Experience 2"
 collection: professionalexperience
 type: "Workshop"
-permalink: /professionalexpereince/2015-spring-teaching-1
+permalink: /professionalexpereince/2015-spring-professionalexperience-1
 venue: "University 1, Department"
 date: 2015-01-01
 location: "City, Country"
